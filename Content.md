@@ -5,9 +5,9 @@
 ## Wishlist
 
 ### Teaching
-- How a computer works
+S How a computer works
 - How electronics work (teach as I learn)
-- How to learn programming
+S How to learn programming
 - Getting started with Vim
 - Is learning Dvorak worth it?
 
@@ -18,4 +18,5 @@
 - Create CLI app using Local-First
 - Command-Fu (build bash toolbox)
 - Build a distributed system using Go
+- Write a NeoVim exstention
 
