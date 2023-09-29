@@ -19,4 +19,6 @@ S How to learn programming
 - Command-Fu (build bash toolbox)
 - Build a distributed system using Go
 - Write a NeoVim exstention
+- GitLab Pipelines
+- Try out Kate Editor
 
