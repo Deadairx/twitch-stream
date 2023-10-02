@@ -1,11 +1,30 @@
-# How to do the things
+# How to get started with programming
 
 note: Use `node` as a REPL for general explaining
 
 ## Choosing a Languge
 
-It does not matter
-Try JavaScript, or Rust, or C
+It does not matter what languge you start with, pick one you like and dive 
+deep into it. Once you have a firm grasp on one languge, switching languges
+gets easier.
+
+That said, I do have some thoughts on which languges I might recommend 
+depending on your goals
+
+### If you want maximum versatility and support
+JavaScript, it's the most popular languge so googling for help will be easier 
+and you can get a job doing just about anything with JavaScript. It also can be 
+forgiving with its syntax (that can be a bad thing too)
+
+I strongly believe learning strongly typed languge is better long term, so I 
+be best to learn 
+
+However, JS can be less performant at scale and lacks 
+
+
+### If you want to get into the nitty gritty 
+Rust, 
+C
 
 ## Calling Functions
 

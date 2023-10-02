@@ -5,11 +5,11 @@
 ## Wishlist
 
 ### Teaching
-S How a computer works
+- [How a computer works](how-a-computer-works.md)
 - How electronics work (teach as I learn)
-S How to learn programming
+- [How to learn programming](Programming Basics.md)
 - Getting started with Vim
-- Is learning Dvorak worth it?
+- Is learning [Dvorak](dvorak.md) worth it?
 
 
 ### Learning
@@ -20,5 +20,5 @@ S How to learn programming
 - Build a distributed system using Go
 - Write a NeoVim exstention
 - GitLab Pipelines
-- Try out Kate Editor
+- Try out [Kate Editor](kate-editor.md)
 
