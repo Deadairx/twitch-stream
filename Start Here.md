@@ -1,8 +1,7 @@
 # Welcome 
 
-hello and welcome to my show, I am DeadAirX
+hello and welcome to my show, I am DeadAirX[^](name-change.md)
 
-My goal here is to learn and teach 
-
+## Address the VOD watchers
 
 
