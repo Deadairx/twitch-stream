@@ -3,7 +3,7 @@
 ### Teaching
 - [How a computer works](how-a-computer-works.md)
 - How electronics work (teach as I learn)
-- [How to learn programming](Programming Basics.md)
+- [How to learn programming](programming-basics.md)
 - [Getting started with Vim](getting-started-with-vim.md)
 - Is learning [Dvorak](dvorak.md) worth it?
 
@@ -18,3 +18,5 @@
 - GitLab Pipelines
 - Try out [Kate Editor](kate-editor.md)
 
+### Project List
+- Trigger twitch marker from shell
