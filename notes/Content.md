@@ -15,7 +15,7 @@
 - Command-Fu (build [bash toolbox](bash-toolbox.md))
 - Build a distributed system using Go
 - Write a NeoVim exstention
-- GitLab Pipelines
+- [GitLab Pipelines](gitlab-pipelines.md)
 - Try out [Kate Editor](kate-editor.md)
 
 ### Project List

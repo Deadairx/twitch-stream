@@ -3,9 +3,9 @@
 [Resource](https://github.com/pgy/AdventOfBash/blob/master/notebook.ipynb)
 
 ## Key
-- 🟢 Know well
-- 🟡 Familiar
-- 🔴 Hardly know
+- 🟢 Know well, have found reason to use
+- 🟡 Familiar, surface understanding, have read the man pages
+- 🔴 Hardly know, don't know what it does or how to use it
 
 ## Commands
 
@@ -19,8 +19,8 @@
 - 🔴`socat` - reverse tunnel thing...I have no idea what I would use this for
 - 🔴`bc` - binary calculator
 - 🔴`paste` - ???
-- 🔴`tr` - search and replace?
-- 🔴`yes` -
+- 🟡`tr` - replace characters (translate)
+- 🟡`yes` - reptatively output string (default 'y')
 - 🔴`head` - ? opening lines of a file/source
 - 🔴`tail` - ? ending lines of a file/source
 - 🔴`tee` - 
@@ -31,6 +31,4 @@
 - 🔴`wc` - no idea
 - 🟡`sort`
 - 🔴`tsort` - I have an idea
-
-
-
+- 🔴`rsync` - sync remote folder
