@@ -5,7 +5,20 @@ GPU
 RAM = Random Access Memory
 Storge
 
-# OSI Layers
+## Man in a room analogy
+
+Picture a man named Jake in a room with a desk and a bookshelf
+
+Jake represents the CPU.
+
+The Desk represents RAM.
+
+The bookshelf represents Storge.
+
+Jake can perform tasks very quickly off of note cards laid out across the 
+desk. He can produce these note cards very quickly by copying them from pages
+on the bookshelf and taking them to the desk.
+
 
 
 

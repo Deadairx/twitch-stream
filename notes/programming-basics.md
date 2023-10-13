@@ -1,15 +1,16 @@
 # How to get started with programming
 
-note: Use `node` as a REPL for general explaining
+[note](note.md): Use `node` as a REPL for general explaining
 
 ## Choosing a Languge
 
 It does not matter what languge you start with, pick one you like and dive 
-deep into it. Once you have a firm grasp on one languge, switching languges
+deep into it. Once you have a firm grasp on one languge, learning other languges
 gets easier.
 
 That said, I do have some thoughts on which languges I might recommend 
-depending on your goals
+depending on your goals.
+
 
 ### If you want maximum versatility and support
 JavaScript, it's the most popular languge so googling for help will be easier 
@@ -22,9 +23,21 @@ be best to learn
 However, JS can be less performant at scale and lacks 
 
 
-### If you want to get into the nitty gritty 
+### If you want to get into the nitty gritty
 Rust, 
 C
+
+🤔 Is it a good idea to start someone out on a more complex languge like Rust?
+Maybe you start with Rust, only do a few projects to get the fundamentals of
+programming and then once the basics of types are engrained, set them loose
+on something like TypeScript.
+
+### You want to only understand how computers work in general
+Probably C# or Java. It also depends on what context you want to learn.
+
+### You want to do moding for games
+Lua, or whichever scripting languge your game supports. (ex. Skyrim has their own
+scripting languge called TESScript)
 
 ## Calling Functions
 
@@ -38,42 +51,13 @@ print(x);
 RAM Tangent
 
 ## Types
-number
 
 boolean
 string
 float = 64 
 int = 32bit Integer
 
-1111 1111 1111 1111 
-1111 1111 1111 1111 
-=
-2,147,483,647
-
-0000 0000 0000 0000 
-0000 0000 0000 0000 
-=
--2,147,483,647
-
-0000 0000 0000 0000 
-0000 0000 0000 0000 
-0000 0000 0000 0000 
-0000 0000 0000 0000 
-
-long = 64bit Integer
-ulong
-
-short = 16bit
-
-byte = 8bit 
-0000 0000
-<civ Gandi Story>
-Agreesive scale (0-9)
-0000 0001 = 1
-1111 1110 = 255
-
-double = 128bit float
-decimal = 256bit float
+[Primative Types](primative-types.md)
 
 ### Operators
 * / - + %
