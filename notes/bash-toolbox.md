@@ -10,14 +10,14 @@
 ## Commands
 
 - 🟢`cat` 
-- 🟢`pbcopy`/`pbpaste` - Copy to/paste from system clipboard
+- 🟢`pbcopy`/`pbpaste` - Copy to/paste from system clipboard on MacOS
 - 🟡`sed`
 - 🟡`jq`
 - 🟡`fold` - wraps text to a width, use `-s` to avoid word breaks
 - 🟢`rg`/`grep` - search content with regex
 - 🔴`awk`
 - 🔴`socat` - reverse tunnel thing...I have no idea what I would use this for
-- 🔴`bc` - binary calculator
+- 🟡`bc` - binary calculator
 - 🔴`paste` - ???
 - 🟡`tr` - replace characters (translate)
 - 🟡`yes` - reptatively output string (default 'y')
