@@ -9,7 +9,7 @@
 
 
 ### Learning
-- Build an interpreter
+- [Crafting Interpreters](crafting-interpreters.md)
 - Build "The Weird ALgorithim" for karaoke
 - Create CLI app using Local-First
 - Command-Fu (build [bash toolbox](bash-toolbox.md))
@@ -19,4 +19,5 @@
 - Try out [Kate Editor](kate-editor.md)
 
 ### Project List
-- Trigger twitch marker from shell
+- [✅] Trigger twitch marker from shell
+
