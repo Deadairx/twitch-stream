@@ -12,7 +12,7 @@ take a bit longer.
 ### Do you use Dvorak on your phone too?
 No, I think Dvorak's strengths are in touch typing, and I have to look at the 
 keyboard anyway on my phone, so I just opt for Qwerty. Also I believe auto correct
-are better optimized for Qwerty layout.
+is better optimized for Qwerty layout.
 
 ### What do you think of Colmack?
 I'm sure it's fine, I barely looked into it. I like Dvorak's choice of 

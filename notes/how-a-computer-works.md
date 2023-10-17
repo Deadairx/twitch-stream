@@ -1,4 +1,6 @@
-# Parts
+# How a computer works
+
+## Parts
 
 CPU
 GPU
@@ -19,6 +21,7 @@ Jake can perform tasks very quickly off of note cards laid out across the
 desk. He can produce these note cards very quickly by copying them from pages
 on the bookshelf and taking them to the desk.
 
+## What does RAM do?
 
-
+RAM is temp storage used by the CPU
 
