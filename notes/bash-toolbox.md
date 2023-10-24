@@ -12,7 +12,7 @@
 - 🟢`cat` 
 - 🟢`pbcopy`/`pbpaste` - Copy to/paste from system clipboard on MacOS
 - 🟡`sed`
-- 🟡`jq`
+- 🟡`jq` - JSON manipulation
 - 🟡`fold` - wraps text to a width, use `-s` to avoid word breaks
 - 🟢`rg`/`grep` - search content with regex
 - 🔴`awk`
