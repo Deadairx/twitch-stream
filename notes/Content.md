@@ -6,7 +6,7 @@
 - [How to learn programming](programming-basics.md)
 - [Getting started with Vim](getting-started-with-vim.md)
 - Is learning [Dvorak](dvorak.md) worth it?
-
+- [GitLab Tutorials](gitlab-tutorials.md)
 
 ### Learning
 - [Crafting Interpreters](crafting-interpreters.md)
