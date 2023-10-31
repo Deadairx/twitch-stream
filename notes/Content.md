@@ -17,6 +17,7 @@
 - Write a NeoVim exstention
 - [GitLab Pipelines](gitlab-pipelines.md)
 - Try out [Kate Editor](kate-editor.md)
+- [Game Dev](game-dev.md)
 
 ### Project List
 - [✅] Trigger twitch marker from shell
