@@ -4,3 +4,5 @@
 
 "Don't get mad, get busy" - rwxrob
 
+"There's power in looking silly and not caring that you do" - Amy Poehler
+
