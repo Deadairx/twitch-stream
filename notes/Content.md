@@ -21,4 +21,5 @@
 
 ### Project List
 - [✅] Trigger twitch marker from shell
+- [🟡]  [ChatGPT Twitch Bots](chatgpt-twitch-bots.md)
 
