@@ -9,7 +9,7 @@
 - [GitLab Tutorials](gitlab-tutorials.md)
 
 ### Learning
-- [Crafting Interpreters](crafting-interpreters.md)
+- Create a [Programming Language from scratch](programming-language-from-scratch.md)
 - Build "The Weird ALgorithim" for karaoke
 - Create CLI app using Local-First
 - Command-Fu (build [bash toolbox](bash-toolbox.md))
@@ -22,4 +22,8 @@
 ### Project List
 - [✅] Trigger twitch marker from shell
 - [🟡]  [ChatGPT Twitch Bots](chatgpt-twitch-bots.md)
+- [❌] Hiding `.env` files from telescope buffer
+- [❌] TUI Minesweeper with Vim-like controls
+- Deploy a Minecraft Server
+- Something with protobuf
 
