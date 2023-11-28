@@ -26,4 +26,5 @@
 - [❌] TUI Minesweeper with Vim-like controls
 - Deploy a Minecraft Server
 - Something with protobuf
+- [🟡]  [Writing an Interpreter in Go](writing-an-interpreter-in-go.md)
 

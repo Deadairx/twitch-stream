@@ -31,7 +31,11 @@ way
 
 `pP` paste after/before cursor
 
-`y` yank
+`y` yank (copy)
+
+`:q` quit vim
+`:w` save file
+`:q!` quit without save
 
 ---
 
